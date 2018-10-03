@@ -8,4 +8,4 @@ run line_profiler:
 kernprof -l -v modules/python/App.py
 
 ### NOTICE
-This repo was created because it became corrupt on the RPI. I was not sure if these changes were newer than the repo on github and did not have time to investigate.
+This repo was created because it became corrupt on the RPI. I was not sure if these changes were newer than the repo on github and did not have time to investigate. I'm fairly certain this is a bad backup.
